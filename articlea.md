@@ -7,7 +7,6 @@ programmers.
 
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg)
 
-
 # Why Python is Popular
 
 Python is a popular programming language for many reasons. Some of the key features that make it so attractive to programmers include:
