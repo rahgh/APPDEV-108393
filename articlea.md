@@ -7,7 +7,6 @@ programmers.
 
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg)
 
-# Lorem ipsum dolor sit amet
 
 # Why Python is Popular
 
